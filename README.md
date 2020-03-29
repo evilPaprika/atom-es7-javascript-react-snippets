@@ -1,10 +1,10 @@
 # Atom ES7 React/Redux/React-Native/JS snippets
 
-This is port of [this extension for VSCode](https://github.com/dsznajder/vscode-es7-javascript-react-snippets) to Atom. None of snippets are edited.
+This is a port of [this extension for VSCode](https://github.com/dsznajder/vscode-es7-javascript-react-snippets) to Atom. None of snippets are edited.
 
 This package provides you JavaScript and React/Redux snippets in ES7 with Babel plugin features for [Atom](https://atom.io/)
 
-Here is direct link to marketplace [ES7 React/Redux/React-Native/JS Snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+Here is direct link to VSCode marketplace [ES7 React/Redux/React-Native/JS Snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
 ## Supported languages (file extensions)
 
