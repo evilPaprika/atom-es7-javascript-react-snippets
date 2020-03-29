@@ -1,4 +1,4 @@
-'.source.ts, .source.tsx, .source.js, .source.jsx':
+'.source.ts, .source.tsx':
   typeScriptReactClassComponent:
     prefix: 'tsrcc'
     body: '''
