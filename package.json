@@ -2,7 +2,7 @@
   "name": "atom-es7-react-js-snippets",
   "displayName": "ES7 React/Redux/GraphQL/React-Native snippets for Atom",
   "description": "Simple snippets for React, Redux and Graphql in JS/TS with ES7 syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "publisher": "evilPaprika",
   "icon": "images/logo.png",
   "keywords": [
